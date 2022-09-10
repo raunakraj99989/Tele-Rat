@@ -33,11 +33,11 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 
 ## How to use
 - Search  BotFather on Telegram
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379420-85ccb51d-d442-4753-aa7d-3520e00cfcbf.jpg)
+![App Screenshot]()
 - Creat a bot with any name/username
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379494-f1f0897a-8dc8-4822-a20e-810bede3fe97.jpg)
+![App Screenshot]()
 - Copy your Bot token
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379566-8eef82d6-a43a-43b3-9606-426eb9360469.jpg)
+![App Screenshot]()
 - Go to glitch.com click
 - new project then glitch-hello-node
 ![App Screenshot](https://user-images.githubusercontent.com/109063269/180379635-e64a5afa-b61a-469f-a66c-c346e545a4a8.jpg)
